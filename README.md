@@ -2,6 +2,11 @@
 
 Welcome to our full-stack MERN (MongoDB, Express.js, React, Node.js) e-commerce project built with Next.js v14! This project encompasses a comprehensive set of features for a complete online shopping experience.
 
+### Support the Project
+
+If you find this project helpful, consider supporting its development! You can either contribute code or show your appreciation by [making a small donation](#) to help us maintain and improve this open-source project.
+
+Thank you for your support!
 ## Features
 
 ### Authentication System
