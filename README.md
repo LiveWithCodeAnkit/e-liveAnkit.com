@@ -4,9 +4,12 @@ Welcome to our full-stack MERN (MongoDB, Express.js, React, Node.js) e-commerce 
 
 ### Support the Project
 
-If you find this project helpful, consider supporting its development! You can either contribute code or show your appreciation by [making a small donation](#) to help us maintain and improve this open-source project.
+If you find this project valuable and would like to support its continued development, consider making a financial contribution. Your support helps in maintaining the project and ensuring regular updates.
 
-Thank you for your support!
+- [Support via PayPal](#) (or your preferred payment platform)
+  
+Your contribution is greatly appreciated!
+
 ## Features
 
 ### Authentication System
