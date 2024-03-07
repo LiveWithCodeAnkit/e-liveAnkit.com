@@ -47,7 +47,6 @@ Your contribution is greatly appreciated!
 - **Tailwind CSS**: Utilize Tailwind CSS for responsive and visually appealing designs across various devices.
 
 ### Admin Panel
-
 - **Product Management**: Admins can efficiently add, edit, and delete products through a dedicated admin panel.
 
 
