@@ -5,10 +5,9 @@ Welcome to our full-stack MERN (MongoDB, Express.js, React, Node.js) e-commerce 
 ### Support the Project
 
 If you find this project valuable and would like to support its continued development, consider making a financial contribution. Your support helps in maintaining the project and ensuring regular updates.
+ you can buy me a coffee:
 
-- [Support via PayPal](#) (or your preferred payment platform)
-  
-Your contribution is greatly appreciated!
+- [Buy me a coffee](https://www.buymeacoffee.com/ankityadavd)
 
 ## Features
 
